@@ -1,0 +1,10 @@
+[package]
+name = "whitespace-conf"
+version = "1.0.0"
+authors = ["Michael Aaron Murphy <mmstick@pm.me>"]
+edition = "2018"
+description = "Key-value configuration file delimited with whitespaces"
+homepage = "https://github.com/pop-os/whitespace-conf"
+repository = "https://github.com/pop-os/whitespace-conf"
+license = "MIT/Apache-2.0"
+readme = "README.md"
